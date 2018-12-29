@@ -5,7 +5,10 @@ Probably the worst website I've ever made. We had a bold idea for a one-button, 
 
 Incorporates log in functionality with Google Account with personalized greeting.
 
-Firebase Authentication: James Yun \n
-HTML/CSS: Jeevna Prakash \n
-Graphics: Garrett Vercoe \n
-Presentation: Alex Wassel \n
+Firebase Authentication: James Yun
+
+HTML/CSS: Jeevna Prakash
+
+Graphics: Garrett Vercoe
+
+Presentation: Alex Wassel
